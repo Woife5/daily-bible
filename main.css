@@ -1,0 +1,41 @@
+html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.container {
+    width: 90%;
+    min-width: 800px;
+    margin: 0 auto;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.container p {
+    margin-bottom: 0.2em;
+}
+
+.verse-number {
+    font-size: 0.4em;
+    color: #858585;
+}
+
+.chapter-title {
+    margin: 0.5em auto;
+    width: max-content;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #830000;
+}
+
+.page-title {
+    margin: 0.5em auto;
+    width: max-content;
+    font-size: 1.4em;
+    font-weight: bold;
+    color: #000000;
+}
